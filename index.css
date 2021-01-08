@@ -5,3 +5,13 @@ p {
 a {
     color: blue;
 }
+
+body {
+    font-size: 14px;
+    color: navy;
+}
+
+title {
+    border: 1;
+    color = gray;
+}
