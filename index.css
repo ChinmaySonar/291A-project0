@@ -14,7 +14,7 @@ body {
 
 title {
     padding: 40px;
-    background-colr: gray;
+    background-color: gray;
 }
 
 h1 {
@@ -23,7 +23,7 @@ h1 {
 }
 
 h2 {
-    border-style: dashed;
+    border-style: solid;
     border-width: 3px;
     border-left-width: 10px;
     border-right-width: 10px;
