@@ -29,3 +29,7 @@ h2 {
     border-right-width: 10px;
     border-color: red;
 }
+
+table, th, td {
+  border: 1px solid black;
+}
