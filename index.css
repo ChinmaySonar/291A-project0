@@ -16,3 +16,8 @@ title {
     border: 1;
     color = gray;
 }
+
+h1 {
+    color: #ffc;
+    background-color: #009;
+}
