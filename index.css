@@ -13,8 +13,8 @@ body {
 }
 
 title {
-    border: 1;
-    color = gray;
+    padding: 40px;
+    background-colr: gray;
 }
 
 h1 {
